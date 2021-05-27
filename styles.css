@@ -1,3 +1,7 @@
+html, body{
+  margin: 0;
+  padding:0;
+}
 /* part-1 */
 /* navbar */
 .link {
@@ -87,6 +91,7 @@ h3 {
   position: absolute;
   top: 800px;
   width: 100%;
+  padding: 0;
 }
 
 .image-box {
